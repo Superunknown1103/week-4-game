@@ -1,0 +1,131 @@
+body {
+	background: url(../images/background.gif.gif) no-repeat;
+        background-size: 100% 120%;
+}
+
+h1{
+	background-color: rosybrown;
+	color: wheat;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: black 5px #ddd;
+	width: 260px;
+	margin-right: 0%;
+	margin-left: 40%;
+}
+
+#wrapper {
+	width: 100%
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+#wrapper2 {
+	display: inline-block;
+}
+
+#instructions {
+	background-color: black;
+	width: 95%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+	text: center;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
+}
+
+#guessingNumber {
+	background-color: rosybrown;
+	color: wheat;
+	float: left;
+	display: block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+	width: 260px;
+	margin-right: 0%;
+	margin-left: 600px;
+}
+
+#scoreboard {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+	width: 260px;
+
+}
+
+#crystalnumr {
+	background-color: navajowhite;
+	margin-right: 10px;
+	margin-left: 600px;
+	width: 81.25px;
+	margin-top: 10px;
+}
+
+#crystalnumg {
+	background-color: navajowhite;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 81.25px;
+}
+
+#crystalnumb {
+	background-color: navajowhite;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 81.25px;
+}
+
+#crystalnumy {
+	background-color: navajowhite;
+	margin-right: 550px;
+	margin-left: 10px;
+	width: 81.25px;
+}
+
+#crystalnumr:hover {
+	cursor: pointer;
+}
+
+#crystalnumg:hover {
+	cursor: pointer;
+}
+
+#crystalnumb:hover {
+	cursor: pointer;
+}
+
+#crystalnumy:hover {
+	cursor: pointer;
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#finalScore {
+	margin-bottom: 50px;
+	width: 400px;
+	margin-right: 0%;
+	margin-left: 650px;
+}
+
+#yts {
+	background: black;
+	color: white;
+	display: inline-block;
+	padding: 20px;
+	border: solid 1px #ddd
+	margin-left: 40%;
+}
