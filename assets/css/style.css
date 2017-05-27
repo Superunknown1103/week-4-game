@@ -4,7 +4,6 @@ body {
 }
 
 h1{
-	background-color: rosybrown;
 	color: wheat;
 	clear: both;
 	padding: 10px;
@@ -26,7 +25,6 @@ h1{
 }
 
 #instructions {
-	background-color: black;
 	width: 95%;
 	clear:both;
 	padding: 15px;
@@ -41,8 +39,7 @@ h1{
 }
 
 #guessingNumber {
-	background-color: rosybrown;
-	color: wheat;
+	color: black;
 	float: left;
 	display: block;
 	padding: 10px;
@@ -54,7 +51,7 @@ h1{
 }
 
 #scoreboard {
-	background-color: #03A9F4;
+	color: black;
 	display: inline-block;
 	padding: 15px 20px 10px 15px;
 	margin-top: 20px;
@@ -65,7 +62,6 @@ h1{
 }
 
 #crystalnumr {
-	background-color: navajowhite;
 	margin-right: 10px;
 	margin-left: 600px;
 	width: 81.25px;
@@ -73,21 +69,18 @@ h1{
 }
 
 #crystalnumg {
-	background-color: navajowhite;
 	margin-left: 10px;
 	margin-right: 10px;
 	width: 81.25px;
 }
 
 #crystalnumb {
-	background-color: navajowhite;
 	margin-left: 10px;
 	margin-right: 10px;
 	width: 81.25px;
 }
 
 #crystalnumy {
-	background-color: navajowhite;
 	margin-right: 550px;
 	margin-left: 10px;
 	width: 81.25px;
